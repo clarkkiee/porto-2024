@@ -21,7 +21,7 @@ function About() {
                 </div>
                 <div className='flex flex-col my-4 text-primary-dark text-justify gap-4 p-2 lg:text-lg lg:w-[60%]'>
                     <p className='' data-aos="fade-right" data-aos-duration="400" data-aos-delay="200">
-                        Hola, I am Aloysius Juan Farrel Lumentut, a second year Informatics Engineering student at Institut Teknologi Sepuluh Nopember. Interested in Web Development and Machine Learning. Also interested in soft skills development and teamwork.
+                        Hola, I am Aloysius Juan Farrel Lumentut, a second year Informatics Engineering student at Institut Teknologi Sepuluh Nopember. Interested in Web Development, especially Backend Development. Also interested in soft skills development and teamwork.
                     </p>
                     <p className='' data-aos="fade-left" data-aos-duration="400" data-aos-delay="200">
                         In web development, I have some experience especially in using Javascript technology stacks, such as React, ExpressJs, and currently exploring NextJs. For me, becoming a Fullstack Developer is a very long journey, I will continue to develop my skills through various opportunities.
