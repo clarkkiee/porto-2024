@@ -37,7 +37,7 @@ function Experiences() {
                                 <p className='text-xs text-cream'>Github Repository</p>
                             </div>
                         </a>
-                        <a href='https://clone-ui-web-schematics.vercel.app/'>
+                        <a href='https://clone-web-schematics.vercel.app/'>
                             <div className='p-2 px-3 border-2 gap-2 border-cream rounded-full w-max flex items-center justify-center hover:bg-black hover:bg-opacity-40 ease-in-out lg:scale-125 lg:ml-4'>
                                 <svg className='w-4' role="img" fill="#dccaa8" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>Vercel</title><path d="M24 22.525H0l12-21.05 12 21.05z"/></svg>
                                 <p className='text-xs text-cream'>Deployment</p>
